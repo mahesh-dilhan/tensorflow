@@ -1,0 +1,28 @@
+org/tensorflow/lite/examples/classification/databinding/RecognitionItemBinding.java
+ org.tensorflow.lite.examples.classification.databinding.RecognitionItemBinding
+org/tensorflow/lite/examples/classification/BR.java
+ org.tensorflow.lite.examples.classification.BR
+org/tensorflow/lite/examples/classification/BuildConfig.java
+ org.tensorflow.lite.examples.classification.BuildConfig
+androidx/databinding/DataBinderMapperImpl.java
+ androidx.databinding.DataBinderMapperImpl
+org/tensorflow/lite/examples/classification/DataBindingTriggerClass.java
+ org.tensorflow.lite.examples.classification.DataBindingTriggerClass
+androidx/databinding/library/baseAdapters/BR.java
+ androidx.databinding.library.baseAdapters.BR
+androidx/databinding/DataBindingComponent.java
+ androidx.databinding.DataBindingComponent
+org/tensorflow/lite/examples/classification/ml/Model.java
+ org.tensorflow.lite.examples.classification.ml.Model
+ org.tensorflow.lite.examples.classification.ml.Model$1
+ org.tensorflow.lite.examples.classification.ml.Model$Outputs
+org/tensorflow/lite/examples/classification/DataBinderMapperImpl.java
+ org.tensorflow.lite.examples.classification.DataBinderMapperImpl
+ org.tensorflow.lite.examples.classification.DataBinderMapperImpl$InnerBrLookup
+ org.tensorflow.lite.examples.classification.DataBinderMapperImpl$InnerLayoutIdLookup
+org/tensorflow/lite/examples/classification/databinding/RecognitionItemBindingImpl.java
+ org.tensorflow.lite.examples.classification.databinding.RecognitionItemBindingImpl
+org/tensorflow/lite/examples/classification/ml/FlowerModel.java
+ org.tensorflow.lite.examples.classification.ml.FlowerModel
+ org.tensorflow.lite.examples.classification.ml.FlowerModel$1
+ org.tensorflow.lite.examples.classification.ml.FlowerModel$Outputs
